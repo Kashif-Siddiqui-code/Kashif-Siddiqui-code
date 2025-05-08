@@ -44,10 +44,10 @@
 
 ## 🔍 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kashif-siddiqui-1bb407195/)  
 - 📂 [My Portfolio](https://kashifsiddiqui.netlify.app)  
 - 🧑‍💻 [GitHub](https://github.com/Kashif-Siddiqui-code)  
-- 🐦 [Twitter](https://twitter.com/yourhandle)
+- 🐦 [Twitter](https://x.com/Kashif72110364)
 
 ---
 
