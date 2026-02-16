@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kashif Siddiqui</h1>
-<h3 align="center">Software Developer | Frontend Developer | Problem Solver</h3>
+<h3 align="center">Software Developer | Backend Developer | Problem Solver</h3>
 
 ---
 
