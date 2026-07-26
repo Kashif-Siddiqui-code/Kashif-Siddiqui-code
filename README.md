@@ -1,54 +1,84 @@
 <h1 align="center">Hi 👋, I'm Kashif Siddiqui</h1>
-<h3 align="center">Software Developer | Backend Developer | Problem Solver</h3>
+
+<h3 align="center">Java Backend Developer | Spring Boot | DSA | Problem Solver</h3>
 
 ---
 
-🌱 I’m a software developer with **3+ years of experience**, passionate about building clean, efficient, and scalable applications.
+### 👨‍💻 About Me
 
-💻 I have worked on a wide range of technologies across the stack—from crafting interactive UIs with React.js to working with back-end tools like Express.js and MongoDB.
+🌱 Passionate Java Backend Developer with **3+ years of software development experience**.
 
-🧠 I enjoy solving coding challenges and continuously learning new tools, frameworks, and best practices.
+☕ Currently focused on building scalable backend applications using **Java, Spring Boot, SQL, and REST APIs**.
 
-🚀 Currently seeking exciting opportunities where I can contribute, grow, and build impactful software.
+📚 I enjoy solving **Data Structures & Algorithms** problems and continuously improving my problem-solving skills.
+
+🚀 My GitHub showcases my journey in **Core Java, Spring Boot, Backend Development, and DSA**.
+
+💡 Always learning new technologies and backend design principles to write clean, maintainable, and efficient code.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🚀 Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+
+### ⚙️ Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?logo=fastapi&logoColor=white)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
+### 🛠 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-90C53F?logo=servicenow&logoColor=white)
-![Service Cloud](https://img.shields.io/badge/Service%20Cloud-00A1E0?logo=salesforce&logoColor=white)
-![Rally](https://img.shields.io/badge/Rally%20Software-0052CC?logo=atlassian&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
 ---
 
-## 📈 Stats & Contributions
+## 📚 Currently Learning
+
+- Spring Boot
+- Spring Data JPA & Hibernate
+- Spring Security & JWT
+- Microservices
+- System Design
+- Kafka
+- Docker
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashif-Siddiqui-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kashif-Siddiqui-code&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashif-Siddiqui-code&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔍 Let's Connect!
+## 🤝 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/kashif-siddiqui-1bb407195/)  
-- 📂 [My Portfolio](https://kashifsiddiqui.netlify.app)  
-- 🧑‍💻 [GitHub](https://github.com/Kashif-Siddiqui-code)  
-- 🐦 [Twitter](https://x.com/Kashif72110364)
+💼 LinkedIn  
+https://www.linkedin.com/in/kashif-siddiqui-1bb407195/
+
+🌐 Portfolio  
+https://kashifsiddiqui.netlify.a
+
+💻 GitHub  
+https://github.com/Kashif-Siddiqui-code
+
+🐦 X (Twitter)  
+https://x.com/Kashif72110364
 
 ---
 
-> 📬 _Open to opportunities in frontend/backend/software development roles. Let's build something great together!_
+### 💬 Quote
+
+> *"Consistent practice in DSA and Backend Development is the foundation of becoming a better software engineer."*
